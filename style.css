@@ -42,7 +42,9 @@
     background: #fff;   
      margin: 0;
  }
-
+.active{
+    color: #333
+}
 li, a {
     background: #fff;   
     text-decoration: none; /* Underline*/
